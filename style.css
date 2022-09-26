@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.pregunta {
+    background-image: url(https://images.pexels.com/photos/602900/pexels-photo-602900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
